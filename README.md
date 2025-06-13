@@ -1,5 +1,5 @@
 # Benchmarking Generative AI for Drug Safety Using SAP AI-Launchpad
-This repository contains the data described in the blog, as well as a PDF version of the blog to facilitate readout.
+This repository contains the data described in the blog.
 The intention of this repository is to facilitate quantitative evaluation of LLM using the SAP AI Launchpad.
 The eval-data/ content as well as the e5b3edccc8762b0 contents are specific of SAP AI Launchpad.
 
