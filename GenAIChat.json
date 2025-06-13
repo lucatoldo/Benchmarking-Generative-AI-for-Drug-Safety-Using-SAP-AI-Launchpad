@@ -1,0 +1,24 @@
+[
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "mimeType": "text/plain",
+        "data": "I am a pharmacovigilance expert and i need to know if a phrase contains evidence of a potential adverse drug event. For this reason i need you to support me by doing the following tasks, in the strict mode and without explanations. Do the following: \n1. classify if a phrase as a whole could be indicative of a potential adverse drug event.\n2. if the first step is YES, then the output parameter \"hasAE\" must be set to \"POSITIVE\", otherwise to \"NEGATIVE\".\n2.1 identify the drug name, UPPERCASE it and use it as value for the output variable \"Drug\", otherwise set it to null.\n2.2 identify the amount of drug used, UPPERCASE it and use it as value for the output variable \"Dose\", otherwise set it to null\n2.3 identify the adverse event reported, UPPERCASE it and use it as value for the output variable \"AdverseEvent\", otherwise set it to null.\n3. The output must have the following structure:\nhasAE|Drug|Dose|AdverseEvent.\nPhrase: \"An 83-year-old man receiving glipizide 10 mg bid developed symptomatic hypoglycemia within three days of adding trimethoprim/sulfamethoxazole (TMP/SMX) to his regimen\"\n",
+        "size": 1099
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "mimeType": "text/plain",
+        "data": "POSITIVE|GLIPIZIDE|10 MG|SYMPTOMATIC HYPOGLYCEMIA",
+        "size": 49
+      }
+    ]
+  }
+]
