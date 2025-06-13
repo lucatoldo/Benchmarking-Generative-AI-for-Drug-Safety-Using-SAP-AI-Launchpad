@@ -1,0 +1,1202 @@
+[
+  {
+    "Phrase": "RESULTS: [1] Mucin secretion was increased by 63% over the controls in the VVR in vitro group (p < 0.01).",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "While more studies are needed to better understand the mechanism of action after suspending HAART, the complete resolution of the signs and symptoms was observed.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Primary spontaneous coronary artery dissection is a rare condition but one that must be considered when young people, especially post partum women, present an acute ischaemic syndrome.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Liver function continued to deteriorate, and the patient underwent liver transplantation 17 days after admission.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "The patient's methemoglobin level was 63%.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "However, deterioration of his clinical state indicated LT.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "RESULTS: The loss of subcutaneous tissue in the injection areas was demonstrated and measured by high-frequency ultrasound.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "The patient remained hospitalized for 3 months.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Steroid therapy is an effective method of protecting the airway in some patients with hemangiomas.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Benzalkonium chloride poisoning in infant twins.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "A unique case of transient, profound paralysis after epidural steroid injection is reported here.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Amiodarone treatment did not abolish the thyroid radioactive iodine uptake (RAIU), allowing for subsequent treatment with radioactive iodine.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "The resuscitation attempt was unsuccessful, and the patient was pronounced dead.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Both reactions occurred late in the course of treatment.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "After the episode, 1 patient continued to receive d-penicillamine therapy and 2 changed to zinc sulfate treatment.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Differentiation and treatment can be complex, especially when features of both syndromes are present and the patient has taken both serotonergic and neuroleptic agents.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Simplifying psychotropic medication regimen into a single night dosage and reducing the dose for patients with chronic schizophrenia.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "A drug-drug interaction may result in decreased methadone blood levels when administered with nevirapine.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Percutaneous transseptal mitral valvuloplasty was attempted in a patient with severe rheumatic mitral stenosis.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "The first case, a 16-year-old African American male with an absolute CD4+ cell count of 314 cells/mm(3), presented with an abrupt rise in serum creatinine leading to irreversible renal failure while on TDF-containing highly active antiretroviral therapy (HAART).",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Septicemia and septic shock are a leading cause of morbidity and mortality among hospitalized patients.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Treatment with terbutaline was continued for 13 days and was well tolerated.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "After intravenous antibiotic treatment, the infection resolved with full restoration of visual acuity and ocular motility.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "A single-pass tunneling technique for CSF shunting procedures.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "The fact that oxcarbazepine is a prodrug and that the formation of the active MHD metabolite is a rate-limiting process may contribute to the relative low toxicity of the drug in overdose.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Baseline examination and investigations were performed, including fundus fluorescein angiography, and the patients were given a single intravitreal injection of triamcinolone (4 mg/0.1 mL).",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "A clinical study was initiated to determine if this mode of treatment would be effective against certain primary and metastatic cutaneous malignancies.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "These side effects may be inadvertently confused with other behavioral or psychiatric conditions, especially if exacerbation of existing challenging behavior occurs.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Many drugs, especially antibiotics, can produce this untoward effect.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "We propose diagnostic criteria for this under-recognized new clinical syndrome, and recommend that physicians routinely measure serum gastrin levels in persistent cases of PPI-dependent dyspepsia unassociated with H. pylori.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "C1-inhibitor deficiency, or hereditary angioedema, is a genetic disorder characterized by recurrent circumscribed, nonpruritic, nonpitting subepithelial edema.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "CONCLUSIONS: To avoid and protect themselves against potential abandonment allegations when termination of the physician-patient relationship is warranted, physicians are advised to consider following the outlined procedures.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Bone marrow cytogenetic study confirmed the deletion of the long arm of chromosome 11, as reported in myeloid leukemia.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "The pitfalls of potassium replacement in thyrotoxic periodic paralysis: a case report and review of the literature.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Radiographic calcification in muscles was not seen.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Intensive organ supportive measures and intravenous antibiotic therapy led to his gradual recovery.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "None of these patients met the DSM-IV criteria for a major depressive disorder.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "RESULTS: Parathyroid hormone, parathyroid hormone-related peptide and 1,25-dihydroxyvitamin D levels were suppressed, suggesting that hypercalcemia was mediated through alternative mechanisms.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Early detection of ototoxicity is of vital importance in cases in which ototoxic drugs are administered.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "DISCUSSION: Capecitabine is not intrinsically cytotoxic, but is converted to fluorouracil in tumor tissues via a 3-step enzymatic pathway.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Preoperative diagnoses were multiple graft failures, chemical burn, Stevens-Johnson syndrome, or ocular cicatricial pemphigoid.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "By a combination of appropriate selection of medications and an awareness of delirium as a side effect, the patient in the ICU may be treated in a manner to minimize the clouding of consciousness.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Intrathecal rituximab treatment for pediatric post-transplant lymphoproliferative disorder of the central nervous system.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Changed Michaelis-Menten parameters suggest that cisplatin increases the metabolic rate of phenytoin.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Twelve patients developed central nervous system (CNS) depression, defined as National Cancer Institute Common Toxicity Criteria (NCI-CTC) neurocortical toxicity grade 2 or higher.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "A case of acute pleuropericarditis, which occurred after apparently successful percutaneous coronary intervention (PCI) for chronic total occlusion of the right coronary artery, is reported.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Oliguria was not observed and this feature may impair recognition of kidney damage.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Pulmonary arterial blood pressure and wedge pressure were significantly elevated.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Immunoperfusion with staphylococcal protein A is the most effective treatment available and this new technique appears promising.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Resin hemoperfusion for chloramphenicol intoxication.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "The role played by repeated drug prescriptions from general practitioners without appropriate clinical and laboratory controls, and that of our patient's depression are discussed.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "When a GEE is encountered, a rigorous management is required to prevent septic embolism.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "On the eleventh day after the surgery, she experienced dyspnea and chest pain during standing and walking exercise.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "We describe a 37-year-old woman who was receiving temozolomide for treatment of metastatic melanoma.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "The third patient, treated with 0.5 cc of thrombin, had an uneventful postoperative course.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Celiac disease diagnosis was performed and symptoms and laboratory abnormalities improved after gluten-free diet.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Blebitis, early endophthalmitis, and late endophthalmitis after glaucoma-filtering surgery.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "There was no evidence of recurrent myeloma after the initial remission on cyclophosphamide therapy.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "We report a cytomegalovirus (CMV) IgG +ve 56-year-old patient who underwent autologous rescue with CD34(+) selected peripheral blood stem cells as part of consolidation therapy for multiple myeloma and subsequently developed CMV colitis.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Anticoagulation was started, the OCP was discontinued, and a discussion occurred regarding the treatment options for her menorrhagia following her recent diagnosis.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Transient decreases in hematocrit, complement components, and immunoglobulin concentrations occurred.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "We recommended debridement as treatment; however, he refused further surgical intervention by reason of symptomatic remission.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Drug discontinuation was followed by a complete resolution of the skin eruption.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "A review of the literature of 68 case reports of acute leukemia following ovarian cancer is presented and 3 new cases are reported.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "We describe a case of SCC in vitiligo lesion after long-term PUVA therapy.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Acetazolamide (AZ) is mostly excreted in the urine, therefore, the blood levels of AZ often tend to increase in patients with chronic renal failure.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "The combination of maintenance ECT and lithium may be safe and effective in selected cases of refractory depression.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "The presentation and progression of drug-induced ocular cicatricial pemphigoid can be variable.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "The diagnosis was made by isolation of the organism only after surgical drainage was established and appropriate tissues were cultured.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "This observation suggest that linezolid is a promising drug for the treatment of prosthetic joint infections due to MRSA or other Gram-positive pathogens, particularly when other therapeutic approaches are not feasible or a long-term antibiotic therapy is required.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "No benefit has been shown from adding bivalirudin to a GP IIb/ IIIa inhibitor.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Effect of a GnRH analogue (leuprolide) on benign prostatic hypertrophy.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Treatment of cerebrospinal fluid and syringosubarachnoid shunt infection with systemic and intrathecal antibiotics.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "A variety of medications have been associated with hypoglycemia, but the list of these medications is expanding.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Histological examination of the kidneys showed tubular dysgenesis with poor differentiation of the proximal tubules.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Treatment of antibiotic-associated pseudomembranous colitis with metronidazole.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Cutaneous malignant melanoma after immunosuppressive therapy.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Both amoxapine and its active and major metabolite, 8-OH-amoxapine, appeared in breast milk.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "All of the patients and three of the carers recorded scores suggestive of psychiatric morbidity on the General Health Questionnaire.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Both infants initially responded well to medical therapy for narcotic withdrawal, but at 7-14 days of age, withdrawal symptoms intensified, requiring an increase in the dosages of Paregoric (UDL Laboratories, Rockford, IL) and opium tincture in both infants and the addition of phenobarbital therapy in one infant.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "We also discuss (in the format of questions and answers) the pathophysiological mechanisms underlying the association of serum uric acid with cardiovascular disease, and we review the relevant literature to justify an evidence-based decision to choose an antihypetensive agent (losartan) or a lipid-lowering drug (fenofibrate) with an additional hypouricaemic effect.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "After the withdrawal of TMP-SMX and the administration of high-dose steroid, these systemic symptoms gradually resolved.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Various features are often seen during the course of the disease.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "INTRODUCTION: Chronic constipation is a common symptom in pediatrics, and physicians often use mineral oil to treat chronic constipation in children.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Persistent corneal erosion secondary to tarsal adrenochrome deposit.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Hyperglycemia induced by the first product improved after the substitution, suggesting that the Erwinia enzyme may be less diabetogenic than the E. coli enzyme.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Infiltrates, hemorrhages and macular edema present preoperatively dissolved over a period of six months.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Differential diagnosis and theories regarding the development of these neuroleptic-induced disorders are reviewed.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "One plausible explanation is HSV reactivation secondary to localized immunosuppression from corticosteroid injection.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "The diagnosis was made on the classical appearance of \"owl's eye\" inclusion bodies on colonic and hepatic biopsies and, in addition, viral serology and polymerase chain reaction (PCR) analysis of the cytomegalovirus DNA copy number.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Bradycardia, hypotension, respiratory distress, and, ultimately, cardiopulmonary arrest occurred in both.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Two patients with classical effort-induced angina pectoris associated with abnormal ST-segment depression on graded exercise testing and normal coronary arteriograms are described.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Histoplasma capsulatum (HC) is a thermally dimorphic ascomycete that is a significant cause of respiratory infections (>80%) in endemic areas (Midwest and southeast USA), but infections are rare in non-endemic areas.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Small intestinal resection with loss of small intestinal absorptive area was not a risk factor for the development of osteonecrosis.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "There was no recurrence the following year.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "After 3 months of combination therapy, LAM was stopped and ADV monotherapy was continued.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "One case of ameobic abscess of the liver and one case of amoebic dysentery are described in two patients who were prescribed corticosteroids as part of the intreatment for tuberculous pleural effusion.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Spasm of the sphincter of Oddi is a well-recognized effect of the narcotic class of drugs.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "Respiratory failure in Wegener's granulomatosis: response to pulse intravenous methylprednisolone and cyclophosphamide.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "In addition, HD alone should be used to remove any excessive amounts of AZ from the blood.",
+    "goldenTruth": "NEGATIVE|X|X|X"
+  },
+  {
+    "Phrase": "While 40 mg/day of prednisolone improved hepatic dysfunction dramatically, her diabetic milieu deteriorated seriously.",
+    "goldenTruth": "POSITIVE|PREDNISOLONE|40 MG/DAY|DIABETIC MILIEU DETERIORATED"
+  },
+  {
+    "Phrase": "A 10-year-old boy with osteosarcoma and normal renal function manifested laboratory evidence of impending renal toxicity and extreme elevation of aspartate aminotrasferase and alanine aminotransferase within 2 hours after the completion of a 4-hour infusion of high-dose methotrexate (MTX) (12 g/m2), and went on to develop acute renal failure with life-threatening hyperkalemia 29 hours later.",
+    "goldenTruth": "POSITIVE|MTX|HIGH-DOSE|RENAL TOXICITY"
+  },
+  {
+    "Phrase": "A 33-year-old man with a history of recreational benztropine abuse presented to the emergency department with confusion, abdominal pain, and distention.",
+    "goldenTruth": "POSITIVE|BENZTROPINE|ABUSE|DISTENTION"
+  },
+  {
+    "Phrase": "This entity is probably related to a combination of high doses of corticosteroids, vecuronium administration and metabolic abnormalities associated with respiratory failure.",
+    "goldenTruth": "POSITIVE|VECURONIUM|HIGH DOSES|RESPIRATORY FAILURE"
+  },
+  {
+    "Phrase": "We describe 2 patients with cutaneous lupus erythematosus who developed severe dapsone reaction after low dose therapy, with a fatal outcome in one.",
+    "goldenTruth": "POSITIVE|DAPSONE|LOW|DAPSONE REACTION"
+  },
+  {
+    "Phrase": "Two patients are described who developed sensory neuropathy after the ingestion of 30.6 and 114 g metronidazole respectively.",
+    "goldenTruth": "POSITIVE|METRONIDAZOLE|114 G|SENSORY NEUROPATHY"
+  },
+  {
+    "Phrase": "Our report suggested that CBDCA hypersensitivity was correlated with the total dose of previously administered platinum agents and that CBDCA should be excluded in patients who have received multiple platinum-based chemotherapy, even in platinum-sensitive cases, because CBDCA hypersensitivity can occur even with low-dose CBDCA administration.",
+    "goldenTruth": "POSITIVE|CBDCA|LOW-DOSE|HYPERSENSITIVITY"
+  },
+  {
+    "Phrase": "CONCLUSIONS: Peripheral administration of low-dose vasopressin for septic shock should be discouraged because of the risk of ischemic skin complications.",
+    "goldenTruth": "POSITIVE|VASOPRESSIN|LOW|ISCHEMIC SKIN COMPLICATIONS"
+  },
+  {
+    "Phrase": "A 10-year-old boy with osteosarcoma and normal renal function manifested laboratory evidence of impending renal toxicity and extreme elevation of aspartate aminotrasferase and alanine aminotransferase within 2 hours after the completion of a 4-hour infusion of high-dose methotrexate (MTX) (12 g/m2), and went on to develop acute renal failure with life-threatening hyperkalemia 29 hours later.",
+    "goldenTruth": "POSITIVE|METHOTREXATE|12 G/M2|ELEVATION OF ASPARTATE AMINOTRASFERASE"
+  },
+  {
+    "Phrase": "However here we reported two patients, presenting with PD during high dose colchicine treatment for familiar mediterranean fever (FMF).",
+    "goldenTruth": "POSITIVE|COLCHICINE|HIGH|PD"
+  },
+  {
+    "Phrase": "Common adverse events (frequency 10%) of lacosamide doses up to 600 mg/day include nonspecific central nervous system effects (e.g., dizziness, ataxia, diplopia, and somnolence).",
+    "goldenTruth": "POSITIVE|LACOSAMIDE|600 MG/DAY|SOMNOLENCE"
+  },
+  {
+    "Phrase": "The case reported here is of a child given a large dose of intravenous iron sucrose (16 mg/kg) over 3 hours, who subsequently developed features of systemic iron toxicity.",
+    "goldenTruth": "POSITIVE|IRON SUCROSE|16 MG/KG|SYSTEMIC IRON TOXICITY"
+  },
+  {
+    "Phrase": "We report five cases of carboplatin (CBDCA) hypersensitivity after weekly low-dose paclitaxel (60 mg/m2)/CBDCA (area under the concentration curve = 2) therapy in patients with recurrent ovarian cancer receiving multiple platinum-based chemotherapy.",
+    "goldenTruth": "POSITIVE|CBDCA|LOW-DOSE|HYPERSENSITIVITY"
+  },
+  {
+    "Phrase": "A 53-year-old man developed lower leg edema 4 weeks after rosiglitazone was increased from 4 mg once/day to 4 mg twice/day.",
+    "goldenTruth": "POSITIVE|ROSIGLITAZONE|4 MG TWICE/DAY|LOWER LEG EDEMA"
+  },
+  {
+    "Phrase": "This paper reports on a 6.9-year-old autistic male who developed repeated episodes of acute dystonic reactions associated with pimozide administration at the doses of 0.096 mg/kg/day and 0.032 mg/kg/day and 32 hours following pimozide withdrawal, as well as during subsequent thioridazine administration.",
+    "goldenTruth": "POSITIVE|PIMOZIDE|0.096 MG/KG/DAY|ACUTE DYSTONIC REACTIONS"
+  },
+  {
+    "Phrase": "We report five cases of carboplatin (CBDCA) hypersensitivity after weekly low-dose paclitaxel (60 mg/m2)/CBDCA (area under the concentration curve = 2) therapy in patients with recurrent ovarian cancer receiving multiple platinum-based chemotherapy.",
+    "goldenTruth": "POSITIVE|PACLITAXEL|LOW-DOSE|HYPERSENSITIVITY"
+  },
+  {
+    "Phrase": "Ballistic movements due to ischemic infarcts after intravenous heroin overdose: report of two cases.",
+    "goldenTruth": "POSITIVE|HEROIN|OVERDOSE|BALLISTIC MOVEMENTS"
+  },
+  {
+    "Phrase": "Two children with rheumatic fever developed anicteric hepatitis while on high-dose aspirin therapy.",
+    "goldenTruth": "POSITIVE|ASPIRIN|HIGH-DOSE|ANICTERIC HEPATITIS"
+  },
+  {
+    "Phrase": "Gynecomastia developed in two epileptic patients some months after the addition of oral fluoresone 750 mg daily to the phenobarbital and phenytoin already being administered.",
+    "goldenTruth": "POSITIVE|PHENYTOIN|750 MG|GYNECOMASTIA"
+  },
+  {
+    "Phrase": "We report a fatal case of toxic epidermal necrolysis (TEN) resulting from a high dose of cytosine arabinoside (ARA-C).",
+    "goldenTruth": "POSITIVE|CYTOSINE ARABINOSIDE|HIGH|TOXIC EPIDERMAL NECROLYSIS"
+  },
+  {
+    "Phrase": "The pharmacology and toxicology of chloral hydrate are discussed with particular reference to the cardiac arrhythmias that are seen with overdosage.",
+    "goldenTruth": "POSITIVE|CHLORAL HYDRATE|OVERDOSAGE|CARDIAC ARRHYTHMIAS"
+  },
+  {
+    "Phrase": "We describe a patient with a liver abscess due to Entamoeba histolytica, in whom metronidazole therapy (total dose, 21 g over 14 days) was complicated by reversible deafness, tinnitus, and ataxia and who relapsed 5 months later with a splenic abscess.",
+    "goldenTruth": "POSITIVE|METRONIDAZOLE|21 G OVER 14 DAYS|ATAXIA"
+  },
+  {
+    "Phrase": "A 53 year old Greenlandic male was admitted twice over a period of 4 years with a new complete right bundle branch block after ingestion of 10 g and 4 g of carbamazepine respectively.",
+    "goldenTruth": "POSITIVE|CARBAMAZEPINE|10 G|RIGHT BUNDLE BRANCH BLOCK"
+  },
+  {
+    "Phrase": "The pharmaceutical company producing Halfan has reported 8 cardiac arrests, leading to 6 deaths, when a higher dose than recommended was used, there was recent or concomitant treatment with mefloquine, there was pre-existing prolongation of the QT interval or the patient had a thiamine deficiency.",
+    "goldenTruth": "POSITIVE|MEFLOQUINE|HIGHER|CARDIAC ARRESTS"
+  },
+  {
+    "Phrase": "Carboplatin hypersensitivity induced by low-dose paclitaxel/carboplatin in multiple platinum-treated patients with recurrent ovarian cancer.",
+    "goldenTruth": "POSITIVE|PACLITAXEL|LOW-DOSE|HYPERSENSITIVITY"
+  },
+  {
+    "Phrase": "Two patients treated for chronic myeloid leukemia with high doses of CCNU (1100 mg/m2 and 1240 mg/m2, respectively) developed a fatal pulmonary fibrosis.",
+    "goldenTruth": "POSITIVE|CCNU|1240 MG/M2|FATAL PULMONARY FIBROSIS"
+  },
+  {
+    "Phrase": "METHODS: A 55-year-old woman became stuporous after overdose with lamotrigine (LTG) and valproic acid (VPA) tablets.",
+    "goldenTruth": "POSITIVE|LTG|OVERDOSE|STUPOROUS"
+  },
+  {
+    "Phrase": "In case 1, a total daily dose of 25 mg sertraline, with nondetectable sertraline and desmethylsertraline blood levels, resulted in a doubling of the lamotrigine blood level with symptoms of toxicity.",
+    "goldenTruth": "POSITIVE|SERTRALINE|25 MG|DOUBLING OF THE LAMOTRIGINE BLOOD LEVEL"
+  },
+  {
+    "Phrase": "CONCLUSIONS: Clinicians should be aware of a risk of serotonin syndrome with serious extrapyramidal reactions in patients receiving sertraline or venlafaxine when metoclopramide is coadministered even in a single, conventional dose.",
+    "goldenTruth": "POSITIVE|VENLAFAXINE|CONVENTIONAL|SEROTONIN SYNDROME"
+  },
+  {
+    "Phrase": "Massive CBZ OD may produce a reversible encephalopathy that includes cortical hyperexcitability, a profound burst-suppression EEG pattern, and cranial nerve areflexia.",
+    "goldenTruth": "POSITIVE|CBZ|OD|CORTICAL HYPEREXCITABILITY"
+  },
+  {
+    "Phrase": "Concurrent acute megaloblastic anaemia and pneumonitis: a severe side-effect of low-dose methotrexate therapy during rheumatoid arthritis.",
+    "goldenTruth": "POSITIVE|METHOTREXATE|LOW-DOSE|PNEUMONITIS"
+  },
+  {
+    "Phrase": "We consider asterixis to be an easily overlooked sign of neurotoxicity, which may occur even at low or moderate dosage levels, if certain drugs as lithium or clozapine are used in combination with CBZ.",
+    "goldenTruth": "POSITIVE|CLOZAPINE|LOW OR MODERATE DOSAGE|NEUROTOXICITY"
+  },
+  {
+    "Phrase": "The main clinical features of this 58-year-old female patient were laboratory evidence of leucopenia and cholestasis, and biopsy features of fatty liver parenchyma degeneration with granulocytic portal infiltration and bile stasis, demonstrated 20 days after the initiation of antithyroid therapy with 20 mg methimazole daily.",
+    "goldenTruth": "POSITIVE|METHIMAZOLE|20 MG|FATTY LIVER PARENCHYMA DEGENERATION"
+  },
+  {
+    "Phrase": "A sixty-year-old woman with advanced breast cancer, previously treated with cisplatin, developed an irreversible lethal renal failure with anuria, the day after 5 g/m2 bolus ifosfamide.",
+    "goldenTruth": "POSITIVE|IFOSFAMIDE|5 G/M2|ANURIA"
+  },
+  {
+    "Phrase": "An 83-year-old man receiving glipizide 10 mg bid developed symptomatic hypoglycemia within three days of adding trimethoprim/sulfamethoxazole (TMP/SMX) to his regimen.",
+    "goldenTruth": "POSITIVE|TRIMETHOPRIM|10 MG|SYMPTOMATIC HYPOGLYCEMIA"
+  },
+  {
+    "Phrase": "We report on three cases wherein treatment of dexmedetomidine-induced bradycardia with i.v. glycopyrrolate (5.0 microg/kg) not only resulting in resolution of bradycardia but also resulting in an exaggerated increase of arterial blood pressure.",
+    "goldenTruth": "POSITIVE|GLYCOPYRROLATE|5.0 MICROG/KG|EXAGGERATED INCREASE OF ARTERIAL BLOOD PRESSURE"
+  },
+  {
+    "Phrase": "We consider asterixis to be an easily overlooked sign of neurotoxicity, which may occur even at low or moderate dosage levels, if certain drugs as lithium or clozapine are used in combination with CBZ.",
+    "goldenTruth": "POSITIVE|CLOZAPINE|LOW OR MODERATE DOSAGE|ASTERIXIS"
+  },
+  {
+    "Phrase": "Two heroin addicts, aged 34 and 19 years, developed ballistic movements after intravenous heroin overdose.",
+    "goldenTruth": "POSITIVE|HEROIN|OVERDOSE|BALLISTIC MOVEMENTS"
+  },
+  {
+    "Phrase": "Pheripheral edema was observed in five female patients after taking proton pump inhibitors omeprazole, lansoprazole, or pantoprazole for 7-15 days for peptic acid diseases in recommended standard doses.",
+    "goldenTruth": "POSITIVE|OMEPRAZOLE|STANDARD|PHERIPHERAL EDEMA"
+  },
+  {
+    "Phrase": "Our report suggested that CBDCA hypersensitivity was correlated with the total dose of previously administered platinum agents and that CBDCA should be excluded in patients who have received multiple platinum-based chemotherapy, even in platinum-sensitive cases, because CBDCA hypersensitivity can occur even with low-dose CBDCA administration.",
+    "goldenTruth": "POSITIVE|CBDCA|LOW-DOSE|HYPERSENSITIVITY"
+  },
+  {
+    "Phrase": "A high dose of cotrimoxazole induced hyperkalaemia with the elevation of serum creatinine and blood urea, and increased urinary N-acetyl glucosaminase after several days of the drug administration in these patients; one patient became unconscious.",
+    "goldenTruth": "POSITIVE|COTRIMOXAZOLE|HIGH|ONE PATIENT BECAME UNCONSCIOUS"
+  },
+  {
+    "Phrase": "A patient is presented with typical hyperthyroidism, who developed a severe proximal muscle weakness and a raised creatine phosphokinase after treatment for hyperthyroidism with propylthiouracil (100 mg orally, three times a day).",
+    "goldenTruth": "POSITIVE|PROPYLTHIOURACIL|100 MG ORALLY, THREE TIMES A DAY|HYPERTHYROIDISM"
+  },
+  {
+    "Phrase": "An episode of subacute encephalopathy after the infusion of a moderate dose of methotrexate (1500 mg/m2) (MTX) is reported in a young adult with metastastic gastric cancer.",
+    "goldenTruth": "POSITIVE|METHOTREXATE|1500 MG/M2|ENCEPHALOPATHY"
+  },
+  {
+    "Phrase": "Two years later, 24 hours following an increase in the dose of disopyramide from 300 to 600 mg/day, AVT with syncope occurred; isoproterenol abolished the arrhythmia instantly.",
+    "goldenTruth": "POSITIVE|DISOPYRAMIDE|300 TO 600 MG/DAY|AVT"
+  },
+  {
+    "Phrase": "Two patients are described who developed sensory neuropathy after the ingestion of 30.6 and 114 g metronidazole respectively.",
+    "goldenTruth": "POSITIVE|METRONIDAZOLE|2025-06-30 00:00:00|SENSORY NEUROPATHY"
+  },
+  {
+    "Phrase": "A 33-year-old man with a history of recreational benztropine abuse presented to the emergency department with confusion, abdominal pain, and distention.",
+    "goldenTruth": "POSITIVE|BENZTROPINE|ABUSE|ABDOMINAL PAIN"
+  },
+  {
+    "Phrase": "A 5-month-old infant became lethargic and poorly responsive after receiving 1 drop of brimonidine in each eye.",
+    "goldenTruth": "POSITIVE|BRIMONIDINE|1 DROP|LETHARGIC"
+  },
+  {
+    "Phrase": "In eight patients, a mean decrease in serum Na+ of 8.25 +/- 3.2 mEq/L was observed after a single 200 mg intravenous dose of lorcainide.",
+    "goldenTruth": "POSITIVE|LORCAINIDE|200 MG|DECREASE IN SERUM NA+"
+  },
+  {
+    "Phrase": "We report on three cases wherein treatment of dexmedetomidine-induced bradycardia with i.v. glycopyrrolate (5.0 microg/kg) not only resulting in resolution of bradycardia but also resulting in an exaggerated increase of arterial blood pressure.",
+    "goldenTruth": "POSITIVE|DEXMEDETOMIDINE|5.0 MICROG/KG|BRADYCARDIA"
+  },
+  {
+    "Phrase": "We report a case of drug-induced Kaposi's sarcoma (KS) on the sole of the right foot in a 71-year-old man, treated for 6 months with corticosteroid therapy (prednisolone 25 mg/day) for pericardial effusion.",
+    "goldenTruth": "POSITIVE|PREDNISOLONE|25 MG/DAY|KAPOSI'S SARCOMA"
+  },
+  {
+    "Phrase": "We report a case of a patient with rheumatoid arthritis treated with low-dose methotrexate (15 mg/week) who developed infection with both M. tuberculosis and M. chelonae after the revision of a prosthetic hip.",
+    "goldenTruth": "POSITIVE|METHOTREXATE|15 MG/WEEK|INFECTION WITH BOTH M. TUBERCULOSIS AND M. CHELONAE"
+  },
+  {
+    "Phrase": "Inappropriate antidiuretic hormone secretion after high dose vinblastine.",
+    "goldenTruth": "POSITIVE|VINBLASTINE|HIGH DOSE|INAPPROPRIATE ANTIDIURETIC HORMONE SECRETION"
+  },
+  {
+    "Phrase": "Peripheral nerve dysfunction is a potentially serious complication of high-dose cytosine arabinoside.",
+    "goldenTruth": "POSITIVE|CYTOSINE ARABINOSIDE|HIGH-DOSE|PERIPHERAL NERVE DYSFUNCTION"
+  },
+  {
+    "Phrase": "We report one case of non-Hodgkin lymphoma in a patient, with a 30-year history of rheumatoid arthritis, taking low dose methotrexate weekly over a 10-month period.",
+    "goldenTruth": "POSITIVE|METHOTREXATE|LOW|NON-HODGKIN LYMPHOMA"
+  },
+  {
+    "Phrase": "Neurologic symptoms resolved after stopping CAP for 4 weeks in Patient A, with no recurrence after reinitiating CAP alone at 2000 mg/m2.",
+    "goldenTruth": "POSITIVE|CAP|2000 MG/M2|NEUROLOGIC SYMPTOMS"
+  },
+  {
+    "Phrase": "A patient with rheumatoid arthritis developed an acute intrahepatic cholestasis after 100 mg of sodium aurothiomalate.",
+    "goldenTruth": "POSITIVE|SODIUM AUROTHIOMALATE|100 MG|INTRAHEPATIC CHOLESTASIS"
+  },
+  {
+    "Phrase": "After therapy with parenteral amiodarone (2300 mg in 3 days) and other measures, signs of congestive heart failure disappeared; subsequently the patient developed jaundice, marked increase in serum transaminase levels and fall in prothrombin time, and histologic changes of severe centrilobular necrosis were observed in hepatic biopsy.",
+    "goldenTruth": "POSITIVE|AMIODARONE|2300 MG IN 3 DAYS|FALL IN PROTHROMBIN TIME"
+  },
+  {
+    "Phrase": "A 64 year old man with recurrent metastatic squamous cell carcinoma of the head and neck developed severe skin rash and bone marrow aplasia 4 and 7 days, respectively, following a single dose of 40 mg/m2 methotrexate (MTX).",
+    "goldenTruth": "POSITIVE|METHOTREXATE|40 MG/M2|SEVERE SKIN RASH"
+  },
+  {
+    "Phrase": "Aggressive management of doxorubicin-induced cardiomyopathy associated with 'low' doses of doxorubicin.",
+    "goldenTruth": "POSITIVE|DOXORUBICIN|'LOW' DOSES|CARDIOMYOPATHY"
+  },
+  {
+    "Phrase": "We conclude that myocardial infarction may develop in patients treated with high-dose glucocorticoids for Graves' ophthalmopathy, and increased blood pressure may herald this complication.",
+    "goldenTruth": "POSITIVE|GLUCOCORTICOIDS|HIGH-DOSE|MYOCARDIAL INFARCTION"
+  },
+  {
+    "Phrase": "Two years later, 24 hours following an increase in the dose of disopyramide from 300 to 600 mg/day, AVT with syncope occurred; isoproterenol abolished the arrhythmia instantly.",
+    "goldenTruth": "POSITIVE|DISOPYRAMIDE|300 TO 600 MG/DAY|SYNCOPE"
+  },
+  {
+    "Phrase": "We report a 31-year-old women with recurrent Hodgkin's lymphoma and unrecognized HMSN-1 who developed severe motor neuropathy 3 weeks after the first cycle of treatment including 2 mg of vincristine.",
+    "goldenTruth": "POSITIVE|VINCRISTINE|2 MG|SEVERE MOTOR NEUROPATHY"
+  },
+  {
+    "Phrase": "In this case, it was suspected that a combination of cigarette smoking, pulmonary fibrosis, and low-dose methotrexate therapy might have promoted the development of lung cancer.",
+    "goldenTruth": "POSITIVE|METHOTREXATE|LOW|LUNG CANCER"
+  },
+  {
+    "Phrase": "Mean time between initiation of gemcitabine therapy and onset of HUS was 7.4 +/- 3.5 months, or 21.9 +/- 10.9 doses of gemcitabine.",
+    "goldenTruth": "POSITIVE|GEMCITABINE|21.9 +/- 10.9|HUS"
+  },
+  {
+    "Phrase": "CONCLUSIONS: Clinicians should be aware of a risk of serotonin syndrome with serious extrapyramidal reactions in patients receiving sertraline or venlafaxine when metoclopramide is coadministered even in a single, conventional dose.",
+    "goldenTruth": "POSITIVE|METOCLOPRAMIDE|CONVENTIONAL|EXTRAPYRAMIDAL REACTIONS"
+  },
+  {
+    "Phrase": "The intramuscular challenge test with 25 UI of Miacalcic was positive with an immediate anaphylactic reaction.",
+    "goldenTruth": "POSITIVE|MIACALCIC|25 UI|ANAPHYLACTIC REACTION"
+  },
+  {
+    "Phrase": "The azathioprine dose was low (1 mg/kg) and pancytopenia occurred after 56 days therapy.",
+    "goldenTruth": "POSITIVE|AZATHIOPRINE|1 MG/KG|PANCYTOPENIA"
+  },
+  {
+    "Phrase": "A 10-year-old boy with osteosarcoma and normal renal function manifested laboratory evidence of impending renal toxicity and extreme elevation of aspartate aminotrasferase and alanine aminotransferase within 2 hours after the completion of a 4-hour infusion of high-dose methotrexate (MTX) (12 g/m2), and went on to develop acute renal failure with life-threatening hyperkalemia 29 hours later.",
+    "goldenTruth": "POSITIVE|MTX|HIGH-DOSE|ELEVATION OF ASPARTATE AMINOTRASFERASE"
+  },
+  {
+    "Phrase": "In case 1, a total daily dose of 25 mg sertraline, with nondetectable sertraline and desmethylsertraline blood levels, resulted in a doubling of the lamotrigine blood level with symptoms of toxicity.",
+    "goldenTruth": "POSITIVE|SERTRALINE|25 MG|SYMPTOMS OF TOXICITY"
+  },
+  {
+    "Phrase": "A 17-year-old boy with acute lymphoblastic leukemia developed acute renal failure within 48 h of an intravenous high-dose methotrexate (5 g/m2) infusion.",
+    "goldenTruth": "POSITIVE|METHOTREXATE|HIGH-DOSE|ACUTE RENAL FAILURE"
+  },
+  {
+    "Phrase": "She received an accidental 450-mg bolus injection of morphine intrathecally and developed hypertension, status epilepticus, intracerebral hemorrhage, and respiratory failure.",
+    "goldenTruth": "POSITIVE|MORPHINE|450-MG|RESPIRATORY FAILURE"
+  },
+  {
+    "Phrase": "The patient experienced hallucinations, agitation, vomiting, tachycardia and seizures after ingestion of 1050 (48 mg/kg) of extended-release bupropion.",
+    "goldenTruth": "POSITIVE|BUPROPION|48 MG/KG|TACHYCARDIA"
+  },
+  {
+    "Phrase": "A 65-year-old woman with bipolar disorder and complicated cardiovascular disease who was on maintenance lithium therapy developed a movement disorder following high doses of trazodone for treatment of an acute depression.",
+    "goldenTruth": "POSITIVE|TRAZODONE|HIGH DOSES|MOVEMENT DISORDER"
+  },
+  {
+    "Phrase": "We report a case in which hemorrhage occurred in an asymptomatic falx meningioma known beforehand, after the internal use of low-dose aspirin for 16 months.",
+    "goldenTruth": "POSITIVE|ASPIRIN|LOW-DOSE|HEMORRHAGE"
+  },
+  {
+    "Phrase": "We thus concluded that an excessive dose of AZ had probably destroyed the gastric mucosal barrier or thrombocytopenia due to bone marrow disorder and thus eventually led to the development of hemorrhagic gastritis.",
+    "goldenTruth": "POSITIVE|AZ|EXCESSIVE|HEMORRHAGIC GASTRITIS"
+  },
+  {
+    "Phrase": "Ibuprofen overdose is usually characterized by GI upset, dizziness, and mild sedation.",
+    "goldenTruth": "POSITIVE|IBUPROFEN|OVERDOSE|MILD SEDATION"
+  },
+  {
+    "Phrase": "Gynecomastia developed in two epileptic patients some months after the addition of oral fluoresone 750 mg daily to the phenobarbital and phenytoin already being administered.",
+    "goldenTruth": "POSITIVE|FLUORESONE|750 MG|GYNECOMASTIA"
+  },
+  {
+    "Phrase": "Pulmonary fibrosis subsequent to high doses of CCNU for chronic myeloid leukemia.",
+    "goldenTruth": "POSITIVE|CCNU|HIGH DOSES|PULMONARY FIBROSIS"
+  },
+  {
+    "Phrase": "A 17-year-old female patient who had been taking oral minocycline (50 mg twice daily) for 3 weeks for acne developed an eruption that progressed to an exfoliative dermatitis.",
+    "goldenTruth": "POSITIVE|MINOCYCLINE|50 MG TWICE DAILY|EXFOLIATIVE DERMATITIS"
+  },
+  {
+    "Phrase": "The first case concerns a 70-year-old man who developed severe aplastic anemia 7 weeks after treatment with 500 mg of ticlopidine daily.",
+    "goldenTruth": "POSITIVE|TICLOPIDINE|500 MG|APLASTIC ANEMIA"
+  },
+  {
+    "Phrase": "A 10-year-old boy with osteosarcoma and normal renal function manifested laboratory evidence of impending renal toxicity and extreme elevation of aspartate aminotrasferase and alanine aminotransferase within 2 hours after the completion of a 4-hour infusion of high-dose methotrexate (MTX) (12 g/m2), and went on to develop acute renal failure with life-threatening hyperkalemia 29 hours later.",
+    "goldenTruth": "POSITIVE|METHOTREXATE|HIGH-DOSE|ACUTE RENAL FAILURE"
+  },
+  {
+    "Phrase": "He was started on digoxin, 0.25 mg daily, because of echocardiographically demonstrated left ventricular dilatation and functional impairment; he died of ventricular fibrillation 15 days later.",
+    "goldenTruth": "POSITIVE|DIGOXIN|0.25 MG|LEFT VENTRICULAR DILATATION"
+  },
+  {
+    "Phrase": "Our findings suggest that hyperkalemia can develop with the use of low-dose heparin, within seven days of initiating heparin therapy, and that patients with diabetes mellitus or chronic renal insufficiency are especially predisposed to this complication.",
+    "goldenTruth": "POSITIVE|HEPARIN|LOW-DOSE|HYPERKALEMIA"
+  },
+  {
+    "Phrase": "She continued to receive regular insulin 4 times per day over the following 3 years with only occasional hives.",
+    "goldenTruth": "POSITIVE|INSULIN|4 TIMES PER DAY|HIVES"
+  },
+  {
+    "Phrase": "A 10-year-old boy with osteosarcoma and normal renal function manifested laboratory evidence of impending renal toxicity and extreme elevation of aspartate aminotrasferase and alanine aminotransferase within 2 hours after the completion of a 4-hour infusion of high-dose methotrexate (MTX) (12 g/m2), and went on to develop acute renal failure with life-threatening hyperkalemia 29 hours later.",
+    "goldenTruth": "POSITIVE|MTX|HIGH-DOSE|ACUTE RENAL FAILURE"
+  },
+  {
+    "Phrase": "A 64-year-old man with schizophrenia developed myoclonic jerks when given higher doses of quetiapine.",
+    "goldenTruth": "POSITIVE|QUETIAPINE|HIGHER DOSES|MYOCLONIC JERKS"
+  },
+  {
+    "Phrase": "Three patients received respectively 190 mg, 175 mg, and 196 mg of methotrexate and developed bilateral pulmonary infiltrates without evidence of peripheral blood eosinophilia.",
+    "goldenTruth": "POSITIVE|METHOTREXATE|190 MG|BILATERAL PULMONARY INFILTRATES"
+  },
+  {
+    "Phrase": "Two case reports of bilateral granulomatous anterior uveitis are described in patients with open angle glaucoma treated with metripranolol 0.6% eye drops.",
+    "goldenTruth": "POSITIVE|METRIPRANOLOL|0.6|BILATERAL GRANULOMATOUS ANTERIOR UVEITIS"
+  },
+  {
+    "Phrase": "Common adverse events (frequency 10%) of lacosamide doses up to 600 mg/day include nonspecific central nervous system effects (e.g., dizziness, ataxia, diplopia, and somnolence).",
+    "goldenTruth": "POSITIVE|LACOSAMIDE|600 MG/DAY|DIPLOPIA"
+  },
+  {
+    "Phrase": "INTERPRETATION: When high doses of fluticasone propionate are used, growth may be retarded and adrenal suppression may occur.",
+    "goldenTruth": "POSITIVE|FLUTICASONE PROPIONATE|HIGH|GROWTH MAY BE RETARDED"
+  },
+  {
+    "Phrase": "We report a fatal case of toxic epidermal necrolysis (TEN) resulting from a high dose of cytosine arabinoside (ARA-C).",
+    "goldenTruth": "POSITIVE|CYTOSINE ARABINOSIDE|HIGH|TEN"
+  },
+  {
+    "Phrase": "A case of normotensive scleroderma renal crisis after high-dose methylprednisolone treatment.",
+    "goldenTruth": "POSITIVE|METHYLPREDNISOLONE|HIGH|NORMOTENSIVE SCLERODERMA RENAL CRISIS"
+  },
+  {
+    "Phrase": "Bulbar and pseudobulbar palsy complicating therapy with high-dose cytosine arabinoside in children with leukemia.",
+    "goldenTruth": "POSITIVE|CYTOSINE ARABINOSIDE|HIGH-DOSE|PSEUDOBULBAR PALSY"
+  },
+  {
+    "Phrase": "We report on three patients with acute schizophrenia, who developed severe akathisia during treatment with olanzapine (20-25 mg/d).",
+    "goldenTruth": "POSITIVE|OLANZAPINE|20-25 MG/D|SEVERE AKATHISIA"
+  },
+  {
+    "Phrase": "A high dose of cotrimoxazole induced hyperkalaemia with the elevation of serum creatinine and blood urea, and increased urinary N-acetyl glucosaminase after several days of the drug administration in these patients; one patient became unconscious.",
+    "goldenTruth": "POSITIVE|COTRIMOXAZOLE|HIGH|INCREASED URINARY N-ACETYL GLUCOSAMINASE"
+  },
+  {
+    "Phrase": "We consider asterixis to be an easily overlooked sign of neurotoxicity, which may occur even at low or moderate dosage levels, if certain drugs as lithium or clozapine are used in combination with CBZ.",
+    "goldenTruth": "POSITIVE|LITHIUM|LOW OR MODERATE DOSAGE|NEUROTOXICITY"
+  },
+  {
+    "Phrase": "Myasthenia gravis during low-dose IFN-alpha therapy for chronic hepatitis C.",
+    "goldenTruth": "POSITIVE|IFN-ALPHA|LOW|MYASTHENIA GRAVIS"
+  },
+  {
+    "Phrase": "Drug-induced psychosis resulted from the administration of quinacrine hydrochloride at a dosage of 100 mg twice daily for the treatment of discoid lupus.",
+    "goldenTruth": "POSITIVE|QUINACRINE HYDROCHLORIDE|100 MG|PSYCHOSIS"
+  },
+  {
+    "Phrase": "In case 1, a total daily dose of 25 mg sertraline, with nondetectable sertraline and desmethylsertraline blood levels, resulted in a doubling of the lamotrigine blood level with symptoms of toxicity.",
+    "goldenTruth": "POSITIVE|DESMETHYLSERTRALINE|25 MG|DOUBLING OF THE LAMOTRIGINE BLOOD LEVEL"
+  },
+  {
+    "Phrase": "The day after clozapine was stopped, while he was still receiving clomipramine 150 mg/d, he began behaving oddly, started sweating profusely, shivering, and became tremulous, agitated, and confused.",
+    "goldenTruth": "POSITIVE|CLOZAPINE|150 MG/D|CONFUSED"
+  },
+  {
+    "Phrase": "Four years after the beginning of IFN therapy, he acutely developed moderate hyperglycemia and severe ketonuria with positive islet cell antibody, and then 28 units/day of insulin injection was started.",
+    "goldenTruth": "POSITIVE|IFN|X|MODERATE HYPERGLYCEMIA"
+  },
+  {
+    "Phrase": "We report the case of a patient who developed polyserositis (pericardial effusion, pleural effusion, and pericarditis) after being started on clozapine, and whose symptoms remitted upon discontinuation of clozapine.",
+    "goldenTruth": "POSITIVE|CLOZAPINE|X|POLYSEROSITIS"
+  },
+  {
+    "Phrase": "Severe loss of vision after removal of cataract caused by intravitreal triamcinolone in combination with photodynamic therapy for exudative age-related macular degeneration.",
+    "goldenTruth": "POSITIVE|TRIAMCINOLONE|X|CATARACT"
+  },
+  {
+    "Phrase": "Ramipril-induced cutaneous vasculitis is particularly rare and our case was atypical because the patient had tolerated lisinopril before.",
+    "goldenTruth": "POSITIVE|RAMIPRIL|X|CUTANEOUS VASCULITIS"
+  },
+  {
+    "Phrase": "We present a case in which dipyridamole induced high-grade atrioventricular (AV) block that responded promptly to intravenous aminophylline but not to atropine.",
+    "goldenTruth": "POSITIVE|DIPYRIDAMOLE|X|HIGH-GRADE ATRIOVENTRICULAR (AV) BLOCK"
+  },
+  {
+    "Phrase": "ARDS is rarely associated with rituximab infusion for lympho-proliferative disorders, but it should be considered by those administering rituximab, especially when a patient develops severe pulmonary symptoms soon after infusion.",
+    "goldenTruth": "POSITIVE|RITUXIMAB|X|SEVERE PULMONARY SYMPTOMS"
+  },
+  {
+    "Phrase": "Falling backward in two elderly patients taking bupropion.",
+    "goldenTruth": "POSITIVE|BUPROPION|X|FALLING BACKWARD"
+  },
+  {
+    "Phrase": "Videopolysomnographic and pharmacokinetic studies with monitoring of plasma levodopa levels demonstrated marked motor hyperactivity during augmentation, with anarchic discharges of motor unit potentials, tonic grouped discharges and flexor spasms, associated with painful dysesthesia.",
+    "goldenTruth": "POSITIVE|LEVODOPA|X|TONIC GROUPED DISCHARGES"
+  },
+  {
+    "Phrase": "After the first oral dose of propranolol, syncope developed together with atrioventricular block.",
+    "goldenTruth": "POSITIVE|PROPRANOLOL|X|SYNCOPE"
+  },
+  {
+    "Phrase": "Sirolimus-eluting stent thrombosis several years after clopidogrel discontinuation.",
+    "goldenTruth": "POSITIVE|CLOPIDOGREL|X|SIROLIMUS-ELUTING STENT THROMBOSIS"
+  },
+  {
+    "Phrase": "After intravitreal injection of triamcinolone acetonide, cataract may rapidly develop in eyes that have been intensively treated, topically and systemically, by corticosteroids for several years.",
+    "goldenTruth": "POSITIVE|TRIAMCINOLONE ACETONIDE|X|CATARACT"
+  },
+  {
+    "Phrase": "Pemphigus foliaceus was seen in a patient with pulmonary tuberculosis during rifampicin therapy.",
+    "goldenTruth": "POSITIVE|RIFAMPICIN|X|PEMPHIGUS FOLIACEUS"
+  },
+  {
+    "Phrase": "Cutaneous mycobacterial infection post intravesical BCG installation.",
+    "goldenTruth": "POSITIVE|BCG|X|CUTANEOUS MYCOBACTERIAL INFECTION"
+  },
+  {
+    "Phrase": "Contrary to previous recommendations, our experience cautions against the further use of high-dose cytarabine in patients who develop PPE, and is a timely reminder of the potential toxicity of this agent, which is now increasingly being used as first-line treatment in the management of haematologic malignancies.",
+    "goldenTruth": "POSITIVE|CYTARABINE|X|PPE"
+  },
+  {
+    "Phrase": "Acyclovir produces neurologic symptoms that resemble extension of viral infection into the central nervous system.",
+    "goldenTruth": "POSITIVE|ACYCLOVIR|X|NEUROLOGIC SYMPTOMS"
+  },
+  {
+    "Phrase": "METHOD: Case analysis of a poly-drug overdose (venlafaxine, topiramate, divalproex sodium, risperidone, and carbamazepine) presenting with mixed SS/NMS features and whose clinical management suggests a practical algorithm for treatment of undifferentiated SS/NMS in critical care settings.",
+    "goldenTruth": "POSITIVE|CARBAMAZEPINE|X|NMS"
+  },
+  {
+    "Phrase": "We describe children and adolescents with chronic hematologic and oncologic diseases who exhibited drug-seeking behavior or anticholinergic symptoms with the use of diphenhydramine.",
+    "goldenTruth": "POSITIVE|DIPHENHYDRAMINE|X|ANTICHOLINERGIC SYMPTOMS"
+  },
+  {
+    "Phrase": "Patients receiving amifostine who develop only fever should be evaluated for an adverse drug reaction, as well as for sepsis and fevers of neutropenia, and it may be necessary to discontinue the drug.",
+    "goldenTruth": "POSITIVE|AMIFOSTINE|X|SEPSIS"
+  },
+  {
+    "Phrase": "The fifth patient exhibited paraesthesia and agitation caused by olanzapine that was misdiagnosed as psychotic agitation.",
+    "goldenTruth": "POSITIVE|OLANZAPINE|X|PARAESTHESIA"
+  },
+  {
+    "Phrase": "It is suggested that the fatal stroke may have resulted from arterial spasm caused by ergotamine overdosage and possibly complicated by thrombosis.",
+    "goldenTruth": "POSITIVE|ERGOTAMINE|X|ARTERIAL SPASM"
+  },
+  {
+    "Phrase": "Hypotension and sinus arrest with nifedipine in pulmonary hypertension.",
+    "goldenTruth": "POSITIVE|NIFEDIPINE|X|HYPOTENSION"
+  },
+  {
+    "Phrase": "DLST is a good diagnostic tool for AZA allergy, especially for severe drug allergy cases.",
+    "goldenTruth": "POSITIVE|AZA|X|ALLERGY"
+  },
+  {
+    "Phrase": "We report two cases that developed acute myeloid leukaemia (AML) during tamoxifen therapy for breast cancer.",
+    "goldenTruth": "POSITIVE|TAMOXIFEN|X|AML"
+  },
+  {
+    "Phrase": "Two patients treated with 5-fluorouracil (5-FU) for disseminated adenocarcinoma of the colon developed cerebellar dysfunction typical of 5-FU neurotoxicity.",
+    "goldenTruth": "POSITIVE|5-FLUOROURACIL|X|NEUROTOXICITY"
+  },
+  {
+    "Phrase": "We describe children and adolescents with chronic hematologic and oncologic diseases who exhibited drug-seeking behavior or anticholinergic symptoms with the use of diphenhydramine.",
+    "goldenTruth": "POSITIVE|DIPHENHYDRAMINE|X|DRUG-SEEKING BEHAVIOR"
+  },
+  {
+    "Phrase": "With the use of optical coherence tomography (OCT), two patients with IFN-associated retinopathy who had developed macular edema and reduced visual acuity during the clinical course of IFN therapy were observed.",
+    "goldenTruth": "POSITIVE|IFN|X|RETINOPATHY"
+  },
+  {
+    "Phrase": "Intravenous cytarabine and methotrexate appear to act synergistically to enhance the potential for central nervous system toxicity.",
+    "goldenTruth": "POSITIVE|CYTARABINE|X|CENTRAL NERVOUS SYSTEM TOXICITY"
+  },
+  {
+    "Phrase": "The findings were judged to be consistent with soft-tissue injury associated with intravenous administration of phenytoin, also termed purple glove syndrome.",
+    "goldenTruth": "POSITIVE|PHENYTOIN|X|SOFT-TISSUE INJURY"
+  },
+  {
+    "Phrase": "Chlorambucil central nervous toxicity: a significant side effect of chlorambucil therapy in childhood nephrotic syndrome.",
+    "goldenTruth": "POSITIVE|CHLORAMBUCIL|X|CENTRAL NERVOUS TOXICITY"
+  },
+  {
+    "Phrase": "When SASP was changed to 5-aminosalicylic acid (5-ASA), his skin eruptions were resolved, however, he developed weakness and atrophy in his right arm as well as progressive worsening of the dysesthesia in his legs and gait disturbance.",
+    "goldenTruth": "POSITIVE|5-AMINOSALICYLIC ACID|X|ATROPHY"
+  },
+  {
+    "Phrase": "From these data, acute generalized dystonia with brainstem and thalamic lesions may occur in WD patients after an initial d-penicillamine therapy.",
+    "goldenTruth": "POSITIVE|D-PENICILLAMINE|X|ACUTE GENERALIZED DYSTONIA"
+  },
+  {
+    "Phrase": "Severe adenovirus pneumonia (AVP) following infliximab infusion for the treatment of Crohn's disease.",
+    "goldenTruth": "POSITIVE|INFLIXIMAB|X|AVP"
+  },
+  {
+    "Phrase": "Pirmenol hydrochloride-induced QT prolongation and T wave inversion on electrocardiogram during treatment for symptomatic atrial fibrillation.",
+    "goldenTruth": "POSITIVE|PIRMENOL HYDROCHLORIDE|X|T WAVE INVERSION"
+  },
+  {
+    "Phrase": "Atrial fibrillation occurring in a patient taking etanercept plus methotrexate for rheumatoid arthritis.",
+    "goldenTruth": "POSITIVE|ETANERCEPT|X|ATRIAL FIBRILLATION"
+  },
+  {
+    "Phrase": "Fulminant hepatitis associated with disulfiram.",
+    "goldenTruth": "POSITIVE|DISULFIRAM|X|FULMINANT HEPATITIS"
+  },
+  {
+    "Phrase": "Two cases of polymorphic ventricular tachycardia induced by the administration of verapamil against paroxysmal supraventricular tachycardia.",
+    "goldenTruth": "POSITIVE|VERAPAMIL|X|POLYMORPHIC VENTRICULAR TACHYCARDIA"
+  },
+  {
+    "Phrase": "Lithium therapy was discontinued because of poor compliance to the medication and intolerable polyuria.",
+    "goldenTruth": "POSITIVE|LITHIUM|X|POLYURIA"
+  },
+  {
+    "Phrase": "This case underscores problems in clinical management with sulfadiazine hypersensitivity, potential immunosuppression from corticosteroids and selection of medications for recurrences of toxoplasmic chorioretinitis.",
+    "goldenTruth": "POSITIVE|SULFADIAZINE|X|HYPERSENSITIVITY"
+  },
+  {
+    "Phrase": "Proconvulsive tendency of imipenem/cilastatin is one of its well-known side effects.",
+    "goldenTruth": "POSITIVE|CILASTATIN|X|PROCONVULSIVE"
+  },
+  {
+    "Phrase": "Four days after the initial injection of 3.6 mg of goserelin acetate, severe dyspnea developed due to worsening pleuritis carcinomatosa, which was considered as a flare-up.",
+    "goldenTruth": "POSITIVE|GOSERELIN ACETATE|X|SEVERE DYSPNEA"
+  },
+  {
+    "Phrase": "Neonatal mydriasis: intravenous lidocaine adverse reaction.",
+    "goldenTruth": "POSITIVE|LIDOCAINE|X|MYDRIASIS"
+  },
+  {
+    "Phrase": "The case demonstrates that hypersensitivity reaction to pranlukast and resultant ATIN is possible, and that periodic urine testing in patients receiving pranlukast should be considered.",
+    "goldenTruth": "POSITIVE|PRANLUKAST|X|ATIN"
+  },
+  {
+    "Phrase": "CONCLUSION: In some abstainers who take cyanamide for several years, thin septum-like liver fibrosis progresses along with the emergence of ground-glass hepatocytes.",
+    "goldenTruth": "POSITIVE|CYANAMIDE|X|GROUND-GLASS HEPATOCYTES"
+  },
+  {
+    "Phrase": "The findings were judged to be consistent with soft-tissue injury associated with intravenous administration of phenytoin, also termed purple glove syndrome.",
+    "goldenTruth": "POSITIVE|PHENYTOIN|X|PURPLE GLOVE SYNDROME"
+  },
+  {
+    "Phrase": "Reversal of gold-induced neutropenia with granulocyte colony-stimulating factor (G-CSF).",
+    "goldenTruth": "POSITIVE|GOLD|X|NEUTROPENIA"
+  },
+  {
+    "Phrase": "Erythema multiforme bullosum due to rifampicin.",
+    "goldenTruth": "POSITIVE|RIFAMPICIN|X|ERYTHEMA MULTIFORME BULLOSUM"
+  },
+  {
+    "Phrase": "Onset of male gynaecomastia in a patient treated with sunitinib for metastatic renal cell carcinoma.",
+    "goldenTruth": "POSITIVE|SUNITINIB|X|GYNAECOMASTIA"
+  },
+  {
+    "Phrase": "Less common adverse events to dapsone include the idiosyncratic reactions of leukopenia and agranulocytosis, cutaneous eruptions, peripheral neuropathy, psychosis, toxic hepatitis, cholestatic jaundice, nephrotic syndrome, renal papillary necrosis, severe hypoalbuminemia without proteinuria, an infectious mononucleosis-like syndrome, and minor neurological and gastrointestinal complaints.",
+    "goldenTruth": "POSITIVE|DAPSONE|X|RENAL PAPILLARY NECROSIS"
+  },
+  {
+    "Phrase": "Valproate-induced hyperammonemia as a cause of altered mental status.",
+    "goldenTruth": "POSITIVE|VALPROATE|X|HYPERAMMONEMIA"
+  },
+  {
+    "Phrase": "A case of the Rett syndrome with acute encephalopathy induced during calcium hopantenate treatment.",
+    "goldenTruth": "POSITIVE|CALCIUM HOPANTENATE|X|ACUTE ENCEPHALOPATHY"
+  },
+  {
+    "Phrase": "OBJECTIVE: To report on the possible development of serotonin syndrome in a patient receiving clomipramine after clozapine was withdrawn from the treatment regimen.",
+    "goldenTruth": "POSITIVE|CLOZAPINE|X|SEROTONIN SYNDROME"
+  },
+  {
+    "Phrase": "BACKGROUND: Hydroxyurea is a cytostatic agent used to treat myeloproliferative disorders and long-term treatment is associated with mucocutaneous adverse events and nail hyperpigmentation.",
+    "goldenTruth": "POSITIVE|HYDROXYUREA|X|MUCOCUTANEOUS ADVERSE EVENTS"
+  },
+  {
+    "Phrase": "CASE DESCRIPTION: A 59-year-old man with known neurocysticercosis developed a large cerebral infarction during praziquantel therapy.",
+    "goldenTruth": "POSITIVE|PRAZIQUANTEL|X|LARGE CEREBRAL INFARCTION"
+  },
+  {
+    "Phrase": "Heparin-associated thrombocytopenia and thrombosis is a severe complication of systemic heparin therapy.",
+    "goldenTruth": "POSITIVE|HEPARIN|X|THROMBOCYTOPENIA"
+  },
+  {
+    "Phrase": "The pathogenic mechanisms involved in the development of adriamycin cardiomyopathy are reviewed, and the possible synergistic effect of other antitumor antibiotics is discussed.",
+    "goldenTruth": "POSITIVE|ADRIAMYCIN|X|CARDIOMYOPATHY"
+  },
+  {
+    "Phrase": "Systemic vasculitis complicating hairy cell leukaemia treatment with cladribine.",
+    "goldenTruth": "POSITIVE|CLADRIBINE|X|SYSTEMIC VASCULITIS"
+  },
+  {
+    "Phrase": "We believe this is the first report of myocardial infarction due to coronary spasm, demonstrated by angiography associated with L-thyroxine therapy.",
+    "goldenTruth": "POSITIVE|L-THYROXINE|X|MYOCARDIAL INFARCTION"
+  },
+  {
+    "Phrase": "CONCLUSION: A 37-year-old African- American man with G6PD deficiency developed hemolytic anemia, hepatitis, orthostatic hypotension, and aseptic meningitis simultaneously after using trimethoprim-sulfamethoxazole.",
+    "goldenTruth": "POSITIVE|SULFAMETHOXAZOLE|X|ORTHOSTATIC HYPOTENSION"
+  },
+  {
+    "Phrase": "OBJECTIVE: 1) To describe a patient with rheumatoid arthritis receiving adalimumab who developed fever, pancytopenia, splenomegaly, and extreme hyperferritinemia.",
+    "goldenTruth": "POSITIVE|ADALIMUMAB|X|FEVER"
+  },
+  {
+    "Phrase": "Mechanism of topiramate-induced acute-onset myopia and angle closure glaucoma.",
+    "goldenTruth": "POSITIVE|TOPIRAMATE|X|ANGLE CLOSURE GLAUCOMA"
+  },
+  {
+    "Phrase": "We report two patients who developed intense livedo reticularis clearly related to the administration of interferon alpha 2b as an adjuvant therapy for melanoma.",
+    "goldenTruth": "POSITIVE|INTERFERON ALPHA 2B|X|LIVEDO RETICULARIS"
+  },
+  {
+    "Phrase": "Naproxen-associated sudden sensorineural hearing loss.",
+    "goldenTruth": "POSITIVE|NAPROXEN|X|SUDDEN SENSORINEURAL HEARING LOSS"
+  },
+  {
+    "Phrase": "CONCLUSION: The administration of tissue plasminogen activator was responsible for the large extent of hemorrhage and should be considered in the differential diagnosis of hemorrhagic choroidal detachment.",
+    "goldenTruth": "POSITIVE|TISSUE PLASMINOGEN ACTIVATOR|X|HEMORRHAGE"
+  },
+  {
+    "Phrase": "The relation between tacrolimus treatment and staining was suggested by the appearance of pigmentation during topical tacrolimus treatment and its clinical disappearance when treatment was stopped.",
+    "goldenTruth": "POSITIVE|TACROLIMUS|X|PIGMENTATION"
+  },
+  {
+    "Phrase": "46-year-old woman developed painful ulcers over her lower abdomen in the form of reticulate erythema after injecting interferon beta-1b subcutaneously for multiple sclerosis.",
+    "goldenTruth": "POSITIVE|INTERFERON BETA-1B|X|RETICULATE ERYTHEMA"
+  },
+  {
+    "Phrase": "METHODS: A patient who developed dramatic, permanent vision loss after a 9-month course of treatment with ethambutol and isoniazid for pulmonary tuberculosis is presented.",
+    "goldenTruth": "POSITIVE|ISONIAZID|X|VISION LOSS"
+  },
+  {
+    "Phrase": "We reviewed the literature in an attempt to characterize the pattern and predictors of TMP/SMX-induced aseptic meningitis.",
+    "goldenTruth": "POSITIVE|SMX|X|ASEPTIC MENINGITIS"
+  },
+  {
+    "Phrase": "Skin necrosis is a rare complication of subcutaneous heparin therapy that usually occurs at injection sites.",
+    "goldenTruth": "POSITIVE|HEPARIN|X|SKIN NECROSIS"
+  },
+  {
+    "Phrase": "Here, we report a case of RFP-induced hypothyroidism without underlying thyroid disease.",
+    "goldenTruth": "POSITIVE|RFP|X|HYPOTHYROIDISM"
+  },
+  {
+    "Phrase": "Drug-induced hepatitis in an acromegalic patient during combined treatment with pegvisomant and octreotide long-acting repeatable attributed to the use of pegvisomant.",
+    "goldenTruth": "POSITIVE|OCTREOTIDE|X|HEPATITIS"
+  },
+  {
+    "Phrase": "Seizures and extrapyramidal symptoms in a patient with Tourette's syndrome, Asperger's syndrome, and multiple sclerosis treated with interferon beta-1a and clomipramine.",
+    "goldenTruth": "POSITIVE|CLOMIPRAMINE|X|SEIZURES"
+  },
+  {
+    "Phrase": "Based on our experience and on previously published data, serum ammonia levels appear to be indicated in all ED patients on valproic acid therapy who present with altered mental status.",
+    "goldenTruth": "POSITIVE|VALPROIC ACID|X|ALTERED MENTAL STATUS"
+  },
+  {
+    "Phrase": "A patient is described with the characteristic features of phenytoin hypersensitivity syndrome (PHS) including fever, erythroderma, tibial and facial oedema, pinhead-sized facial pustules and abnormal liver function tests.",
+    "goldenTruth": "POSITIVE|PHENYTOIN|X|TIBIAL AND FACIAL OEDEMA"
+  },
+  {
+    "Phrase": "Ocular hypertension occurred 1 month after the second ranibizumab injection in patients 1 and 3, and 1 month after the first ranibizumab in patient 2.",
+    "goldenTruth": "POSITIVE|RANIBIZUMAB|X|OCULAR HYPERTENSION"
+  },
+  {
+    "Phrase": "DESIGN: We reviewed the medical records of four patients, who were seen by us between July 2000 and February 2004 for sudden onset of a central neurological syndrome within days of intrathecal MTX.",
+    "goldenTruth": "POSITIVE|MTX|X|CENTRAL NEUROLOGICAL SYNDROME"
+  },
+  {
+    "Phrase": "A 50-year-old diabetic and hypertensive male patient is reported who had ticlopidine-induced marrow aplasia partially responsive to colony-stimulating factors and corticosteroids, but experienced complete recovery with cyclosporine.",
+    "goldenTruth": "POSITIVE|TICLOPIDINE|X|MARROW APLASIA"
+  },
+  {
+    "Phrase": "Case 3: A 29-year-old female alcoholic complained of general fatigue and a slight fever after 1.5 years of abstinence with cyanamide treatment.",
+    "goldenTruth": "POSITIVE|CYANAMIDE|X|FATIGUE"
+  },
+  {
+    "Phrase": "The relation between tacrolimus treatment and staining was suggested by the appearance of pigmentation during topical tacrolimus treatment and its clinical disappearance when treatment was stopped.",
+    "goldenTruth": "POSITIVE|TACROLIMUS|X|PIGMENTATION"
+  },
+  {
+    "Phrase": "Rifampin can be associated with severe adverse effects such as hepatitis, acute renal failure, hemolytic anemia, and thrombocytopenia.",
+    "goldenTruth": "POSITIVE|RIFAMPIN|X|HEMOLYTIC ANEMIA"
+  },
+  {
+    "Phrase": "The authors suggest that fluoxetine-induced akathisia may be caused by serotonergically mediated inhibition of dopaminergic neurotransmission and that the pathophysiology of fluoxetine-induced akathisia and tricyclic antidepressant-induced \"jitteriness\" may be identical.",
+    "goldenTruth": "POSITIVE|FLUOXETINE|X|AKATHISIA"
+  },
+  {
+    "Phrase": "Sodium phenylbutyrate was added to treatment with HU in two patients, but failed to produce an increase in total Hb despite increasing Hb F levels.",
+    "goldenTruth": "POSITIVE|HU|X|INCREASING HB F"
+  },
+  {
+    "Phrase": "The more common grade 3 or 4 adverse effects of sunitinib include hypertension, fatigue, hand-foot syndrome, elevated lipase and lymphopenia.",
+    "goldenTruth": "POSITIVE|SUNITINIB|X|HYPERTENSION"
+  },
+  {
+    "Phrase": "Cyanamide-induced liver dysfunction after abstinence in alcoholics: a long-term follow-up study on four cases.",
+    "goldenTruth": "POSITIVE|CYANAMIDE|X|LIVER DYSFUNCTION"
+  },
+  {
+    "Phrase": "Colonic necrosis is known as a rare complication following the administration of Kayexalate (sodium polystryrene sulfonate) in sorbitol.",
+    "goldenTruth": "POSITIVE|KAYEXALATE|X|COLONIC NECROSIS"
+  },
+  {
+    "Phrase": "Agranulocytosis during clozapine therapy.",
+    "goldenTruth": "POSITIVE|CLOZAPINE|X|AGRANULOCYTOSIS"
+  },
+  {
+    "Phrase": "Thirty-six patients with AL received, in a three-month period, 51 cycles of combined chemotherapy which included, in all of them, cytosine arabinoside (ARA-C); among them, along with myelosuppression, five experienced fever, infectious complications, gastrointestinal tract symptoms and severe myalgias.",
+    "goldenTruth": "POSITIVE|ARA-C|X|FEVER"
+  },
+  {
+    "Phrase": "Acute unilateral total visual loss after retrogasserian phenol injection for the treatment of trigeminal neuralgia: a case report.",
+    "goldenTruth": "POSITIVE|PHENOL|X|ACUTE UNILATERAL TOTAL VISUAL LOSS"
+  },
+  {
+    "Phrase": "We believe the temporal association of the abnormal liver enzymes in this patient, in the absence of other offending agents, argues strongly in favor of 6-TG as a cause of liver enzyme abnormalities.",
+    "goldenTruth": "POSITIVE|6-TG|X|LIVER ENZYME ABNORMALITIES"
+  },
+  {
+    "Phrase": "We report a patient with inoperable pancreatic cancer who developed gastrointestinal bleeding secondary to radiation-recall related to gemcitabine and review literature.",
+    "goldenTruth": "POSITIVE|GEMCITABINE|X|GASTROINTESTINAL BLEEDING"
+  },
+  {
+    "Phrase": "After induction of general anesthesia and administration of a standard dose of intravenous esmolol hydrochloride, her cardiac rhythm progressed to asystole.",
+    "goldenTruth": "POSITIVE|ESMOLOL HYDROCHLORIDE|X|ASYSTOLE"
+  },
+  {
+    "Phrase": "Detection of activated eosinophils in nasal polyps of an aspirin-induced asthma patient.",
+    "goldenTruth": "POSITIVE|ASPIRIN|X|ASTHMA"
+  },
+  {
+    "Phrase": "We report the case of intoxication of a 41-year-old female patient suffering from major depression with mirtazapine complicated by severe hypothermia.",
+    "goldenTruth": "POSITIVE|MIRTAZAPINE|X|INTOXICATION"
+  },
+  {
+    "Phrase": "Pulmonary leukostasis secondary to all-trans retinoic acid in the treatment of acute promyelocytic leukemia in first relapse.",
+    "goldenTruth": "POSITIVE|ALL-TRANS RETINOIC ACID|X|PULMONARY LEUKOSTASIS"
+  },
+  {
+    "Phrase": "This is the first report of UFT-induced scleroderma-like reaction.",
+    "goldenTruth": "POSITIVE|UFT|X|UFT-INDUCED SCLERODERMA-LIKE REACTION"
+  },
+  {
+    "Phrase": "These are the first reported patients to show mfERG abnormalities that correspond to bitemporal visual field defects and add to the growing evidence that ethambutol damages the retina.",
+    "goldenTruth": "POSITIVE|ETHAMBUTOL|X|MFERG ABNORMALITIES"
+  },
+  {
+    "Phrase": "Risperidone-induced obsessive-compulsive symptoms in two children.",
+    "goldenTruth": "POSITIVE|RISPERIDONE|X|OBSESSIVE-COMPULSIVE SYMPTOMS"
+  },
+  {
+    "Phrase": "Drug rash with eosinophilia and systemic symptoms after chlorambucil treatment in chronic lymphocytic leukaemia.",
+    "goldenTruth": "POSITIVE|CHLORAMBUCIL|X|DRUG RASH WITH EOSINOPHILIA AND SYSTEMIC SYMPTOMS"
+  },
+  {
+    "Phrase": "To our knowledge, this is the first case of ivermectin-induced severe liver disease published in the literature.",
+    "goldenTruth": "POSITIVE|IVERMECTIN|X|SEVERE LIVER DISEASE"
+  },
+  {
+    "Phrase": "Nephrogenic diabetes insipidus and renal tubular acidosis secondary to foscarnet therapy.",
+    "goldenTruth": "POSITIVE|FOSCARNET|X|NEPHROGENIC DIABETES INSIPIDUS"
+  },
+  {
+    "Phrase": "Although gabapentin withdrawal has been previously reported and usually consists of anxiety, diaphoresis, and palpitations, this is the first reported patient with generalized seizures and status epilepticus secondary to gabapentin withdrawal.",
+    "goldenTruth": "POSITIVE|GABAPENTIN|X|GENERALIZED SEIZURES"
+  }
+]

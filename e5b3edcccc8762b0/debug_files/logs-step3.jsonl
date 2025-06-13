@@ -1,0 +1,3 @@
+{"step": "database", "time": "2025-05-31 13:53:39", "level": "INFO", "submission_id": "", "metric_calculated": "", "message": "Database engine initialized successfully.", "response_code": "", "total_time": "", "start_time": "", "end_time": ""}
+{"step": "database", "time": "2025-05-31 13:53:39", "level": "INFO", "submission_id": "", "metric_calculated": "", "message": "Session factory initialized successfully.", "response_code": "", "total_time": "", "start_time": "", "end_time": ""}
+{"step": "database", "time": "2025-05-31 13:53:39", "level": "INFO", "submission_id": "", "metric_calculated": "", "message": "Database session closed.", "response_code": "", "total_time": "", "start_time": "", "end_time": ""}

@@ -1,0 +1,22 @@
+{
+    "module_configurations": {
+      "llm_module_config": {
+        "model_name": "gpt-35-turbo",
+        "model_params": {
+          "max_tokens": 2000,
+          "temperature": 0
+        },
+        "model_version": "latest"
+      },
+      "templating_module_config": {
+        "template": [
+          {
+            "role": "user",
+            "content": "I am a pharmacovigilance expert and i need to know if a phrase contains evidence of a potential adverse drug event. For this reason i need you to support me by doing the following tasks, in strict mode and without explanations. Do the following:\n1. Classify if a phrase as a whole could be indicative of a potential adverse drug event\n2. if the first step is YES, then the output parameter \"hasAE\" must be set to \"POSITIVE\", otherwise to \"NEGATIVE\". \n2.1 identify the drug name, UPPERCASE it and use it as value for the output variable \"Drug\", otherwise set it to X\n2.2. identify the amount of drug used, UPPERCASE it and use it as value for the output variable \"Dose\" , otherwise set it to X\n2.3 identify the adverse event reported, ensuring that it is part of the MEDDRA terminology, UPPERCASE it and use it as value for the output variable \"AdverseEvent\",otherwise set it to X.\n 3.The output must have the following structure:\nhasAE|Drug|Dose|AdverseEvent\n.{{?Phrase}}." 
+          }
+        ],
+        "defaults": {
+        }
+      }
+    }
+  }
