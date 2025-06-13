@@ -32,5 +32,6 @@ This  folder stores all the outputs from the run described in the blog.
 - evaluation_result
   this folder contains the final output, results.db and as well the modified version obtained applying the various SQL statements as in the blog, using the DBBrowser for SQL (results.sqbpro)
 ## Deep analysis
-All SQL used to do a deep analysis of the results.db is stored in the file SQL for deep analysis.md
+All SQL used to do a deep analysis of the results.db is stored in the file "SQL for deep analysis.md"
+The file missing_results.xslx has been generated with an SQL described in the file "SQL for deep analysis.md" and shows which phrases and corresponding reference golden truth were missing in the results.
 
