@@ -2,6 +2,8 @@
 This repository contains the data described in the blog.
 The intention of this repository is to facilitate quantitative evaluation of LLM using the SAP AI Launchpad.
 The eval-data/ content as well as the e5b3edccc8762b0 contents are specific of SAP AI Launchpad.
+# Chat
+The file GenAIChat.json is described in the Part-2 of the blog, and is obtained by clicking the download button from the executed Chat.
 
 # Input
 ## Intial input files from ade-v2
