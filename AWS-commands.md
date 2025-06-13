@@ -30,25 +30,25 @@ aws s3 ls --recursive s3://<service_key.bucket>/output/  | grep db
 
 ## download all files resulted by the execution of the configurations
 ```
-aws s3 cp --recursive s3://hcp-cc9c52a2-5f62-4563-bcc2-fdfb0d582164/output/
+aws s3 cp --recursive s3://<service_key.bucket>/output/
 ```
 
 ## remove all the content from the bucket
 ```
-aws s3 rm --recursive s3://hcp-cc9c52a2-5f62-4563-bcc2-fdfb0d582164
+aws s3 rm --recursive s3://<service_key.bucket>
 ```
 
 ## Remove all the output but keep the input files
 ```
-aws s3 rm --recursive s3://hcp-cc9c52a2-5f62-4563-bcc2-fdfb0d582164/output/
+aws s3 rm --recursive s3://<service_key.bucket>/output/
 ```
 
 ## Remove all the runs but keep the test data
 ```
-aws s3 rm --recursive s3://hcp-cc9c52a2-5f62-4563-bcc2-fdfb0d582164/ade-v2/eval-data/runs
+aws s3 rm --recursive s3://<service_key.bucket>/ade-v2/eval-data/runs
 ```
 
 ## Delete only a specific run file
 ```
-aws s3 rm --recursive s3://hcp-cc9c52a2-5f62-4563-bcc2-fdfb0d582164/ade-v2/eval-data/runs/gpt35turbo.json
+aws s3 rm --recursive s3://<service_key.bucket>/ade-v2/eval-data/runs/gpt35turbo.json
 ```
