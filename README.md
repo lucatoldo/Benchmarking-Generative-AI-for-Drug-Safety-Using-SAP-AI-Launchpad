@@ -1,5 +1,7 @@
 # Benchmarking-Generative-AI-for-Drug-Safety-Using-SAP-AI-Launchpad
 This repository contains the data described in the blog, as well as a PDF version of the blog to facilitate readout.
+The intention of this repository is to facilitate quantitative evaluation of LLM using the SAP AI Launchpad.
+The eval-data/ content as well as the e5b3edccc8762b0 contents are specific of SAP AI Launchpad.
 
 # Input
 ## Intial input files from ade-v2
@@ -28,5 +30,5 @@ This  folder stores all the outputs from the run described in the blog.
 - debug_files
   here are all the detailed logs, and the intermediate SQLite formatted results
 - evaluation_result
-  this folder contains the final output, results.db
+  this folder contains the final output, results.db and as well the modified version obtained applying the various SQL statements as in the blog, using the DBBrowser for SQL (results.sqbpro)
 
