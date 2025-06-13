@@ -31,4 +31,6 @@ This  folder stores all the outputs from the run described in the blog.
   here are all the detailed logs, and the intermediate SQLite formatted results
 - evaluation_result
   this folder contains the final output, results.db and as well the modified version obtained applying the various SQL statements as in the blog, using the DBBrowser for SQL (results.sqbpro)
+## Deep analysis
+All SQL used to do a deep analysis of the results.db is stored in the file SQL for deep analysis.md
 
