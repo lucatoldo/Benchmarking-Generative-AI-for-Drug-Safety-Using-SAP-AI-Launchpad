@@ -1,53 +1,50 @@
-# Benchmarking Generative AI for Drug Safety Using SAP AI-Launchpad
+ # Benchmarking Generative AI for Drug Safety Using SAP AI-Launchpad
+
 This repository contains the data described in the blog series:
 
 ## Part 1
-https://community.sap.com/t5/artificial-intelligence-and-machine-learning-blogs/benchmarking-generative-ai-for-drug-safety-using-sap-ai-launchpad-part-1-of/ba-p/14126211
+[Benchmarking Generative AI for Drug Safety Using SAP AI Launchpad - Part 1](https://community.sap.com/t5/artificial-intelligence-and-machine-learning-blogs/benchmarking-generative-ai-for-drug-safety-using-sap-ai-launchpad-part-1-of/ba-p/14126211)
 
 ## Part 2
-https://community.sap.com/t5/artificial-intelligence-and-machine-learning-blogs/benchmarking-generative-ai-for-drug-safety-using-sap-ai-launchpad-part-2-of/ba-p/14126525
+[Benchmarking Generative AI for Drug Safety Using SAP AI Launchpad - Part 2](https://community.sap.com/t5/artificial-intelligence-and-machine-learning-blogs/benchmarking-generative-ai-for-drug-safety-using-sap-ai-launchpad-part-2-of/ba-p/14126525)
 
 ## Part 3
-https://community.sap.com/t5/artificial-intelligence-and-machine-learning-blogs/benchmarking-generative-ai-for-drug-safety-using-sap-ai-launchpad-part-3-of/ba-p/14126912
+[Benchmarking Generative AI for Drug Safety Using SAP AI Launchpad - Part 3](https://community.sap.com/t5/artificial-intelligence-and-machine-learning-blogs/benchmarking-generative-ai-for-drug-safety-using-sap-ai-launchpad-part-3-of/ba-p/14126912)
 
-The intention of this repository is to facilitate quantitative evaluation of LLM using the SAP AI Launchpad.
-The eval-data/ content as well as the e5b3edccc8762b0 contents are specific of SAP AI Launchpad.
+The purpose of this repository is to facilitate the quantitative evaluation of Large Language Models (LLMs) using the [SAP AI Launchpad](https://help.sap.com/docs/ai-launchpad). The contents of the `eval-data/` folder as well as `e5b3edccc8762b0` are created as ouptut of the [SAP AI Launchpad](https://help.sap.com/docs/ai-launchpad)..
 
-# AWS commands
-The file [AWS-commands.md](AWS-commands.md) list all the commands used in the blog.
+# AWS Commands
+The file [AWS-commands.md](AWS-commands.md) lists all the commands used in the blog.
 
 # Chat
-The file [GenAIChat.json](GenAIChat.json) is described in the Part-2 of the blog, and is obtained by clicking the download button from the executed Chat.
+The file [GenAIChat.json](GenAIChat.json) is described in [Benchmarking Generative AI for Drug Safety Using SAP AI Launchpad - Part 2](https://community.sap.com/t5/artificial-intelligence-and-machine-learning-blogs/benchmarking-generative-ai-for-drug-safety-using-sap-ai-launchpad-part-2-of/ba-p/14126525)
+and is obtained by clicking the download button from the executed Chat.
 
 # Input
-## Intial input files from ade-v2
-[DRUG-AE.txt](DRUG-AE.txt), [ADE-NEG.txt](ADE-NEG.txt) and [DRUG-DOSE.txt](DRUG-DOSE.txt) are the official files from the ADE-V2 dataset, as published by [Gurulingappa et al.2012](https://doi.org/10.1016/j.jbi.2012.04.008)
-They are available from https://huggingface.co/datasets/ade-benchmark-corpus/ade_corpus_v2
+## Initial Input Files from ADE-V2
+[DRUG-AE.txt](DRUG-AE.txt), [ADE-NEG.txt](ADE-NEG.txt), and [DRUG-DOSE.txt](DRUG-DOSE.txt) are the official files from the ADE-V2 dataset, as published by [Gurulingappa et al. 2012](https://doi.org/10.1016/j.jbi.2012.04.008). They are available from [Hugging Face](https://huggingface.co/datasets/ade-benchmark-corpus/ade_corpus_v2).
 
-## Temporary excel sheet
-[DRUG-AE.xls](DRUG-AE.xls) is a manually created version of the ADE-V2 files, having the DRUG-AE tab containing both  [DRUG-AE.txt](DRUG-AE.txt), and [ADE-NEG.txt](ADE-NEG.txt), while DRUG-DOSE tab contains only the[DRUG-DOSE.txt](DRUG-DOSE.txt) content.
+## Temporary Excel Sheet
+[DRUG-AE.xls](DRUG-AE.xls) is a manually created version of the ADE-V2 files. It includes:
+- The `DRUG-AE` tab, containing both [DRUG-AE.txt](DRUG-AE.txt) and [ADE-NEG.txt](ADE-NEG.txt)
+- The `DRUG-DOSE` tab, containing only [DRUG-DOSE.txt](DRUG-DOSE.txt)
 
-This sheet is then used for generation of the eval-data/testdata/file
+This sheet is used to generate the file in `eval-data/testdata/`.
 
-## Quick and dirty python to generate testdata
-[ConsolidateADE2-dataset.ipynb](ConsolidateADE2-dataset.ipynb) is a simply jupyter notebook, that reads the DRUG-AE.xls and generates the JSON file used for the evaluations that is then manually moved to [eval-data/testdata/ade-v2-300-dataset.json](eval-data/testdata/ade-v2-300-dataset.json).
+## Quick and Dirty Python to Generate Test Data
+[ConsolidateADE2-dataset.ipynb](ConsolidateADE2-dataset.ipynb) is a simple Jupyter notebook that reads [DRUG-AE.xls](DRUG-AE.xls) and generates the JSON file used for evaluations. This JSON file is then manually moved to [eval-data/testdata/ade-v2-300-dataset.json](eval-data/testdata/ade-v2-300-dataset.json).
 
-## eval-data 
-This is the folder that contains the input artifacts for the run as described in the blog.
-THe whole eval-data is then need to be pushed to the AWS S3 bucket 
-- runs
-contains the run configuration files with the prompts
-- testdata
-contains the dataset generated by the python ade-v2-300-dataset.json
+## Eval-Data
+This folder contains the input artifacts for the run as described in the blog. The entire `eval-data` folder should be pushed to the AWS S3 bucket:
+- [**runs**](eval-data/runs): Contains the run configuration files with the prompts.
+- [**testdata**](eval-data/testdata): Contains the dataset generated by the Python script, [ade-v2-300-dataset.json](eval-data/testdata/ade-v2-300-dataset.json).
 
 # Output
-## e5b3edcccc8762b0
-This  folder stores all the outputs from the run described in the blog. 
-- debug_files
-  here are all the detailed logs, and the intermediate SQLite formatted results
-- evaluation_result
-  this folder contains the final output, results.db and as well the modified version obtained applying the various SQL statements as in the blog, using the DBBrowser for SQL (results.sqbpro)
-## Deep analysis
-All SQL used to do a deep analysis of the results.db is stored in the file "SQL for deep analysis.md"
-The file missing_results.xslx has been generated with an SQL described in the file "SQL for deep analysis.md" and shows which phrases and corresponding reference golden truth were missing in the results.
+## [e5b3edcccc8762b0](e5b3edcccc8762b0)
+This folder stores all the outputs from the run described in the blog:
+- [**debug_files**](e5b3edcccc8762b0/debug_files): Contains detailed logs and intermediate SQLite formatted results.
+- [**evaluation_result**](e5b3edcccc8762b0/evaluation_result): Contains the final output, [`results.db`](e5b3edcccc8762b0/evaluation_result/results.db), and the modified version obtained by applying various SQL statements as described in the blog, using DB Browser for SQL ([`results.sqbpro`](/evaluation_result/results.sqbpro)).
 
+## Deep Analysis
+All SQL commands used for a deep analysis of `results.db` are stored in the file [SQL for deep analysis.md](SQL_for_deep_ analysis.md) . 
+The file [`missing_results.xlsx`](missing_results.xlsx) has been generated using the SQL command above and shows which phrases and corresponding reference golden truth were missing in the results.
