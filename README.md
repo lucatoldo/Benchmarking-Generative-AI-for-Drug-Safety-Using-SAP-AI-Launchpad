@@ -17,20 +17,20 @@ The eval-data/ content as well as the e5b3edccc8762b0 contents are specific of S
 The file [AWS-commands.md](AWS-commands.md) list all the commands used in the blog.
 
 # Chat
-The file GenAIChat.json is described in the Part-2 of the blog, and is obtained by clicking the download button from the executed Chat.
+The file [GenAIChat.json](GenAIChat.json) is described in the Part-2 of the blog, and is obtained by clicking the download button from the executed Chat.
 
 # Input
 ## Intial input files from ade-v2
-DRUG-AE.txt, DRUG-DOSE.txt and ADE-NEG.txt are the official files from the ADE-V2 dataset, as published by Gurulingappa et al.2012 https://doi.org/10.1016/j.jbi.2012.04.008
+[DRUG-AE.txt](DRUG-AE.txt), [ADE-NEG.txt](ADE-NEG.txt) and [DRUG-DOSE.txt](DRUG-DOSE.txt) are the official files from the ADE-V2 dataset, as published by [Gurulingappa et al.2012](https://doi.org/10.1016/j.jbi.2012.04.008)
 They are available from https://huggingface.co/datasets/ade-benchmark-corpus/ade_corpus_v2
 
 ## Temporary excel sheet
-DRUG-AE.xls is a manually created version of the ADE-V2 files, having the DRUG-AE tab containing both ADE-NEG.txt and DRUG-AE.txt, while DRUG-DOSE tab contains only the DRUG-DOSE.txt content.
+[DRUG-AE.xls](DRUG-AE.xls) is a manually created version of the ADE-V2 files, having the DRUG-AE tab containing both  [DRUG-AE.txt](DRUG-AE.txt), and [ADE-NEG.txt](ADE-NEG.txt), while DRUG-DOSE tab contains only the[DRUG-DOSE.txt](DRUG-DOSE.txt) content.
 
 This sheet is then used for generation of the eval-data/testdata/file
 
 ## Quick and dirty python to generate testdata
-ConsolidateADE2-dataset.ipynb reads the DRUG-AE.xls and generates the JSON file used for the evaluations that is then manually moved to eval-data/testdata/ade-v2-300-dataset.json
+[ConsolidateADE2-dataset.ipynb](ConsolidateADE2-dataset.ipynb) is a simply jupyter notebook, that reads the DRUG-AE.xls and generates the JSON file used for the evaluations that is then manually moved to [eval-data/testdata/ade-v2-300-dataset.json](eval-data/testdata/ade-v2-300-dataset.json).
 
 ## eval-data 
 This is the folder that contains the input artifacts for the run as described in the blog.
